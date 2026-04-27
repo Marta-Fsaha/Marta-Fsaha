@@ -1,7 +1,7 @@
 ## 
 <!--Profile Picture 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQE43mYc_YVMDA/profile-displayphoto-crop_800_800/B4DZt1eWp3HwAI-/0/1767202452473?e=1774483200&v=beta&t=R_LtCQFkA2aQIMDm-un9b2y5zSJFysZM6LGkpWM9WBE" alt="Profile Picture" width="150" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQE43mYc_YVMDA/profile-displayphoto-crop_800_800/B4DZt1eWp3HwAI-/0/1767202452473?e=1774483200&v=beta&t=R_LtCQFkA2aQIMDm-un9b2y5zSJFysZM6LGkpWM9WBE" alt="Profile Picture" width="15" />
 </p>
 -->
 
@@ -10,11 +10,9 @@
 
 ---
 
-
 <div align="center">
 <a href="https://github.com/UserNameHere"><h2>View My Portfolio</h2></a>
 </div>
-
 
 ---
 
@@ -74,7 +72,6 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-#<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>#
 
 <!-- R Ecosystem 
 <img src="https://img.shields.io/badge/Tidyverse-1E90FF?style=for-the-badge&logo=r&logoColor=white" alt="Tidyverse"/>
