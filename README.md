@@ -1,7 +1,7 @@
 ## 
 <!--Profile Picture 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQE43mYc_YVMDA/profile-displayphoto-crop_800_800/B4DZt1eWp3HwAI-/0/1767202452473?e=1774483200&v=beta&t=R_LtCQFkA2aQIMDm-un9b2y5zSJFysZM6LGkpWM9WBE" alt="Profile Picture" width="12" />
+  <img src="https://c8.alamy.com/comp/2J96NY3/back-view-of-woman-coding-on-computer-professional-female-programmer-working-in-room-2J96NY3.jpg" alt="Profile Picture" width="12" />
 </p>
 -->
 <h1 align="center">Hi, I'm Marta </h1>
