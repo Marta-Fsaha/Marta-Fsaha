@@ -1,7 +1,7 @@
 ## 
 <!--Profile Picture 
 <p align="center">
-  <img src="https://c8.alamy.com/comp/2J96NY3/back-view-of-woman-coding-on-computer-professional-female-programmer-working-in-room-2J96NY3.jpg" alt="Profile Picture" width="12" />
+  <img src=["https://c8.alamy.com/comp/2J96NY3/back-view-of-woman-coding-on-computer-professional-female-programmer-working-in-room-2J96NY3.jpg" alt="Profile Picture](https://img.pikbest.com/wp/202346/data-analytics-web-banner-3d-rendered-ui-for-seo-and-future-planning-graphs_9632730.jpg!bw700)" width="150" />
 </p>
 -->
 <h1 align="center">Hi, I'm Marta </h1>
