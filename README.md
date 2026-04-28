@@ -8,7 +8,7 @@
 <h2 align="center">Data Analysis | Data Science </h2>
 ---
 <div align="center">
-<a href="https://github.com/UserNameHere"><h2>View My Portfolio</h2></a>
+<a href="https://github.com/Marta-Fsaha"><h2>View My Portfolio</h2></a>
 </div>
 ---
 <h2 align="center">About Me</h2>
@@ -139,7 +139,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
-  <a href="YOUR_EMAIL_HERE">
+  <a href="fsahamarta@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
