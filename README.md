@@ -1,6 +1,5 @@
 ## 
 <!--Profile Picture 
--->
 <h1 align="center">Hi, I'm Marta </h1>
 <h2 align="center">Data Analysis | Data Science </h2>
 <div align="center">
@@ -10,9 +9,7 @@
 <p align="left">
 I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.
 </p>
-
 ---
-
 <h2 align="center">Skills & Tools</h2>
 
 ### Programming Languages
