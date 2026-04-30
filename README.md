@@ -1,5 +1,6 @@
 ## 
 <!--Profile Picture 
+--->
 <h1 align="center">Hi, I'm Marta </h1>
 <h2 align="center">Data Analysis | Data Science </h2>
 <div align="center">
