@@ -1,16 +1,11 @@
 ## 
 <!--Profile Picture 
-<p align="center">
-  <img src=["alt="Profile Picture](https://img.pikbest.com/wp/202346/data-analytics-web-banner-3d-rendered-ui-for-seo-and-future-planning-graphs_9632730.jpg!bw700"] width="150" />
-</p>
 -->
 <h1 align="center">Hi, I'm Marta </h1>
 <h2 align="center">Data Analysis | Data Science </h2>
----
 <div align="center">
 <a href="https://github.com/Marta-Fsaha"><h2>View My Portfolio</h2></a>
 </div>
----
 <h2 align="center">About Me</h2>
 <p align="left">
 I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.
