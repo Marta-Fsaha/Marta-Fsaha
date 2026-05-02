@@ -16,7 +16,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 
 <h2 align="left">Skills & Tools</h2>
 
- Programming Languages
+ ###Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
