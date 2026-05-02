@@ -9,13 +9,13 @@
     <h3>🔍 View My Portfolio</h3>
   </a>
 </div>
-<h2 align="center">About Me</h2>
+<h2 align="left">About Me</h2>
 
 <p align="left">
 I'm a data enthusiast focused on turning raw data into meaningful insights. I enjoy working with real-world datasets to uncover patterns, build visualizations, and support data-driven decisions.
 </p>
 
-<h2 align="center">Skills & Tools</h2>
+<h2 align="left">Skills & Tools</h2>
 
 ### Programming Languages
 <p align="left">
@@ -60,8 +60,8 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+/<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>/
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 
 <!-- R Ecosystem 
