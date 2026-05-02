@@ -1,15 +1,28 @@
 ## 
 <!--Profile Picture 
 --->
-<h1 align="center">Hi, I'm Marta </h1>
-<h2 align="center">Data Analysis | Data Science </h2>
+<h1 align="center">Hi, I'm Marta 👋</h1>
+<h2 align="center">Data Analyst | Aspiring Data Scientist</h2>
+
 <div align="center">
-<a href="https://github.com/Marta-Fsaha"><h2>View My Portfolio</h2></a>
+  <a href="https://github.com/Marta-Fsaha">
+    <h3>🔍 View My Portfolio</h3>
+  </a>
 </div>
+
+---
+
 <h2 align="center">About Me</h2>
+
 <p align="left">
-I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.
+I'm a data enthusiast focused on turning raw data into meaningful insights. I enjoy working with real-world datasets to uncover patterns, build visualizations, and support data-driven decisions.
+<br><br>
+🔹 Currently improving my skills in statistical analysis and machine learning  
+🔹 Passionate about storytelling through data  
+🔹 Interested in solving real-world problems using data  
 </p>
+
+---
 ---
 <h2 align="center">Skills & Tools</h2>
 
