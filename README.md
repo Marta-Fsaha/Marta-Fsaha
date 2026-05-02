@@ -1,4 +1,3 @@
-## 
 <!--Profile Picture 
 --->
 <h1 align="left">Hi, I'm Marta 👋</h1>
@@ -29,7 +28,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
   -->
 </p>
 
-### Tools
+Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -39,14 +38,14 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
-### SQL
+SQL
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-Joins-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Joins"/>
   <img src="https://img.shields.io/badge/SQL-Aggregations-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Aggregations"/>
   <img src="https://img.shields.io/badge/SQL-CTEs-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL CTEs"/>
 </p>
 
-### Excel
+Excel
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Data Cleaning"/>
