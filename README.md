@@ -16,7 +16,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 
 <h2 align="left">Skills & Tools</h2>
 
- ###Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
@@ -28,7 +28,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
   -->
 </p>
 
-Tools
+### Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -38,14 +38,14 @@ Tools
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
-SQL
+### SQL
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-Joins-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Joins"/>
   <img src="https://img.shields.io/badge/SQL-Aggregations-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Aggregations"/>
   <img src="https://img.shields.io/badge/SQL-CTEs-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL CTEs"/>
 </p>
 
-Excel
+### Excel
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Data Cleaning"/>
@@ -59,8 +59,8 @@ Excel
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-/<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>/
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 
 <!-- R Ecosystem 
@@ -71,7 +71,7 @@ Excel
 </p>
 -->
 
-Operating Systems
+### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
   <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/>
@@ -80,7 +80,8 @@ Operating Systems
 <br />
 
 ---
-GitHub Stats
+
+## GitHub Stats
 <p align="center">
   <img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
 </p>
@@ -88,8 +89,12 @@ GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Username here&theme=default" alt="GitHub Streak" width="40%">
 </div>
+
 ---
-Projects
+
+## Projects
+
+
 <ul>
   <li>
   <strong>Bitcoin Analyiz:</strong> 
