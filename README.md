@@ -94,22 +94,9 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 
 ## Projects
 
-
 <ul>
   <li>
-  <strong>Bitcoin Analyiz:</strong> 
-  <a href="#">REPO LINK</a> | 
-  <a href="#">Notebook</a>
-  </li>
-
-  <li>
-  <strong>Bitcoin Analyiz:</strong> 
-  <a href="#">REPO LINK</a> | 
-  <a href="#">Notebook</a>
-  </li>
-  
-  <li>
-  <strong>Bitcoin Analyiz:</strong> 
+  <strong>Coffee Sales analysis:</strong> 
   <a href="#">REPO LINK</a> | 
   <a href="#">Notebook</a>
   </li>
@@ -131,7 +118,8 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="YOUR LINKDIN URL" target="_blank">
+  <a href="Http://linkedin.com/in/
+" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
