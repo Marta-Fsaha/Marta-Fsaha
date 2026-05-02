@@ -118,7 +118,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="Http://linkedin.com/in/
+  <a href="Http://linkedin.com/in/marta21
 " target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
