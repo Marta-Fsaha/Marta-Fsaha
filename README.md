@@ -17,7 +17,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 
 <h2 align="left">Skills & Tools</h2>
 
-### Programming Languages
+ Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
@@ -72,7 +72,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 </p>
 -->
 
-### Operating Systems
+Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
   <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/>
@@ -81,8 +81,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 <br />
 
 ---
-
-## GitHub Stats
+GitHub Stats
 <p align="center">
   <img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
 </p>
@@ -90,12 +89,8 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Username here&theme=default" alt="GitHub Streak" width="40%">
 </div>
-
 ---
-
-## Projects
-
-
+Projects
 <ul>
   <li>
   <strong>Bitcoin Analyiz:</strong> 
