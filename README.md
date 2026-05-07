@@ -96,7 +96,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 
 <ul>
   <li>
-  <strong>Coffee Sales analysis:</strong> 
+  <strong>Coffee Sales analysis:https://github.com/Marta-Fsaha/Coffee-shop-sales</strong> 
   <a href= Customer segmentation>REPO LINK</a> | 
   <a href="#">Notebook</a>
   </li>
