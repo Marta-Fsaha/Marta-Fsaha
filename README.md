@@ -114,7 +114,6 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 ## Future Project
 <ul>
   <li>Advanced SQL & Database Optimization</li>
-  <li>Machine Learning & Predictive Analytics</li>
   <li>Cloud Data Platforms (AWS / Azure)</li>
 </ul>
 
