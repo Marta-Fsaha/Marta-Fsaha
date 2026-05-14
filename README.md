@@ -11,7 +11,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-I'm a data enthusiast focused on turning raw data into meaningful insights. I enjoy working with real-world datasets to uncover patterns, build visualizations, and support data-driven decisions.
+I'm a data enthusiast focused on turning raw data into meaningful insights. I enjoy working with real-world datasets to uncover patterns, build visualizations, and support data-driven decisions
 </p>
 
 <h2 align="left">Skills & Tools</h2>
