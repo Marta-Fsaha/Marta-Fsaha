@@ -11,7 +11,9 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-I'm a data enthusiast focused on turning raw data into meaningful insights. I enjoy working with real-world datasets to uncover patterns, build visualizations, and support data-driven decisions
+I'm a Data Analyst passionate about transforming raw data into actionable insights. 
+I enjoy working with real-world datasets, building dashboards, uncovering trends, 
+and applying data-driven solutions to business problems.
 </p>
 
 <h2 align="left">Skills & Tools</h2>
@@ -59,9 +61,6 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 
 <!-- R Ecosystem 
 <img src="https://img.shields.io/badge/Tidyverse-1E90FF?style=for-the-badge&logo=r&logoColor=white" alt="Tidyverse"/>
@@ -83,25 +82,31 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Marta" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/Marta-Fsaha" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marta&theme=default" alt="GitHub Streak" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marta-Fsaha&theme=default" alt="GitHub Streak" width="40%">
 </div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marta-Fsaha&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marta-Fsaha&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## Projects
 
 <ul>
   <li>
-  <strong>Coffee Sales analysis</strong> 
+  <strong>Coffee Shop Sales Analysis</strong><br>
+    Analyzed sales trends and customer purchasing behavior using Excel<br>
   <a href= "https://github.com/Marta-Fsaha/Coffee-shop-sales">REPO LINK</a> | 
   </li>
 
   <li>
-  <strong>Customer Segmentation</strong> 
+  <strong>Customer Segmentation Analysis</strong> 
   <a href= "https://github.com/Marta-Fsaha/Customer-Segmentation">REPO LINK</a> | 
   </li>
 
@@ -120,12 +125,11 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="Http://linkedin.com/in/marta21
-" target="blank">
+  <a href="Http://linkedin.com/in/marta21" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
-  <a href="fsahamarta@gmail.com">
+  <a href="mailto:fsahamarta@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
