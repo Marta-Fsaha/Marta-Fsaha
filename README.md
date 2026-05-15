@@ -83,7 +83,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/Marta-Fsaha " alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
