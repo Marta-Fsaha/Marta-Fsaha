@@ -107,6 +107,7 @@ and applying data-driven solutions to business problems.
 
   <li>
   <strong>Customer Segmentation Analysis</strong> 
+    Customer Segmentation Analysis Using SQL & Power BI
   <a href= "https://github.com/Marta-Fsaha/Customer-Segmentation">REPO LINK</a> | 
   </li>
 
