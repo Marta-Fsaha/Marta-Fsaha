@@ -87,7 +87,7 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marta &theme=default" alt="GitHub Streak" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marta&theme=default" alt="GitHub Streak" width="40%">
 </div>
 
 ---
@@ -98,13 +98,11 @@ I'm a data enthusiast focused on turning raw data into meaningful insights. I en
   <li>
   <strong>Coffee Sales analysis</strong> 
   <a href= "https://github.com/Marta-Fsaha/Coffee-shop-sales">REPO LINK</a> | 
-  <a href="#">Notebook</a>
   </li>
 
   <li>
   <strong>Customer Segmentation</strong> 
   <a href= "https://github.com/Marta-Fsaha/Customer-Segmentation">REPO LINK</a> | 
-  <a href="#">Notebook</a>
   </li>
 
 </ul>
